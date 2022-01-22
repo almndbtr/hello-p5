@@ -1,4 +1,5 @@
 // https://p5js.org/examples/hello-p5-animation.html
+// Next: https://p5js.org/examples/hello-p5-flocking.html
 const CANVAS_WIDTH = 720
 const CANVAS_HEIGHT = 400
 
